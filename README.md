@@ -2,6 +2,20 @@
 
 A new Flutter project.
 
+# Flutter To-Do App 📝
+
+A simple and clean to-do list app built with Flutter.
+
+## Features
+- Add tasks
+- Delete tasks
+- Simple UI using Material Design
+
+## Getting Started
+```bash
+flutter run
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
